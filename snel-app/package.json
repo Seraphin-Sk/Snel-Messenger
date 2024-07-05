@@ -1,0 +1,23 @@
+{
+  "name": "snel-app",
+  "version": "1.0.0",
+  "description": "Une plateforme de communication interne pour les agents de la SNEL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seraphin-Sk/Snel-Messenger.git"
+  },
+  "author": "Seraphin Sk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seraphin-Sk/Snel-Messenger/issues"
+  },
+  "homepage": "https://github.com/Seraphin-Sk/Snel-Messenger#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
